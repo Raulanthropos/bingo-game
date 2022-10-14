@@ -1,5 +1,5 @@
 const container = document.getElementById("container");
-// const box = document.createElement("button");
+const box = document.createElement("button");
 // container.appendChild(box);
 
 /* The above code would create one element and apppend it to the container div, but I did not understand the solution to do it programmatically for 76 boxes. It was easier with emmet on HTML, this is something I'll inquire during the debrief. */
